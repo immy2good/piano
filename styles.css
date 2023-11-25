@@ -6,8 +6,18 @@ html {
     box-sizing: inherit;
 }
 
+h1 {
+    max-width: 37.25rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 0 auto;
+    padding: 1.5rem 1.25rem;
+    text-align: center;
+    color: rgb(71, 14, 0);
+    font-size: 3rem;
+}
+
 #piano {
-    background-color: #00471b;
+    background-color: rgb(71, 14, 0);
     width: 992px;
     height: 290px;
     margin: 80px auto;
